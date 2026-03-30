@@ -52,8 +52,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Custom interfaces
 
-* [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat) ⭐ 35,034 | 🐛 468 | 🌐 TypeScript | 📅 2026-03-29.
-* [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,138 | 🐛 244 | 🌐 TypeScript | 📅 2024-08-03.
+* [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat) ⭐ 35,048 | 🐛 463 | 🌐 TypeScript | 📅 2026-03-29.
+* [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,135 | 🐛 244 | 🌐 TypeScript | 📅 2024-08-03.
 
 ### Search engines
 
@@ -65,8 +65,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Local search engines
 
-* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,200 | 🐛 293 | 🌐 Python | 📅 2026-02-26 - Ask questions to your documents without an internet connection, using the power of LLMs.
-* [quivr](https://github.com/StanGirard/quivr) ⭐ 39,070 | 🐛 23 | 🌐 Python | 📅 2025-07-09 - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,201 | 🐛 292 | 🌐 Python | 📅 2026-02-26 - Ask questions to your documents without an internet connection, using the power of LLMs.
+* [quivr](https://github.com/StanGirard/quivr) ⭐ 39,073 | 🐛 23 | 🌐 Python | 📅 2025-07-09 - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
 
@@ -113,7 +113,7 @@ Generative Artificial Intelligence is a technology that creates original content
 * [Nekton AI](https://nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 * [Rewind](https://www.rewind.ai/) - Rewind is a personalized AI powered by everything you've seen, said, or heard.
 * [NotebookLM](https://notebooklm.google/) - A research and note-taking online tool to interact with documents, powered by Google Gemini.
-* [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook) ⭐ 21,519 | 🐛 144 | 🌐 TypeScript | 📅 2026-03-29
+* [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook) ⭐ 21,545 | 🐛 146 | 🌐 TypeScript | 📅 2026-03-29
 
 ### Meeting assistants
 
@@ -126,9 +126,9 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Academia
 
-* [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/) ⭐ 28,039 | 🐛 91 | 🌐 Python | 📅 2025-09-30
+* [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/) ⭐ 28,040 | 🐛 91 | 🌐 Python | 📅 2025-09-30
 * [Galactica](https://galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. [Model API](https://github.com/paperswithcode/galai) ⭐ 2,740 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2023-03-05.
-* [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview) ⭐ 864 | 🐛 80 | 🌐 Python | 📅 2026-03-27
+* [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview) ⭐ 865 | 🐛 80 | 🌐 Python | 📅 2026-03-27
 * [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 * [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 * [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
@@ -155,15 +155,15 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Coding Assistants
 
-* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 66,379 | 🐛 101 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 62,894 | 🐛 310 | 🌐 Python | 📅 2026-02-09 - OpenAI's Code Interpreter in your terminal, running locally.
-* [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue) ⭐ 32,118 | 🐛 428 | 🌐 TypeScript | 📅 2026-03-28
-* [RooCode](https://github.com/RooCodeInc/Roo-Code) ⭐ 22,872 | 🐛 776 | 🌐 TypeScript | 📅 2026-03-29 - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code) ⭐ 22,872 | 🐛 776 | 🌐 TypeScript | 📅 2026-03-29
-* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,162 | 🐛 48 | 🌐 Go | 📅 2025-10-03 - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex) ⭐ 15,162 | 🐛 48 | 🌐 Go | 📅 2025-10-03
-* [PR-Agent](https://github.com/Codium-ai/pr-agent) ⭐ 10,702 | 🐛 114 | 🌐 Python | 📅 2026-03-24 - AI-powered tool for automated PR analysis, feedback, suggestions and more.
-* [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,164 | 🐛 285 | 🌐 Python | 📅 2026-03-25 - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
+* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 66,417 | 🐛 101 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 62,930 | 🐛 310 | 🌐 Python | 📅 2026-02-09 - OpenAI's Code Interpreter in your terminal, running locally.
+* [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue) ⭐ 32,158 | 🐛 435 | 🌐 TypeScript | 📅 2026-03-29
+* [RooCode](https://github.com/RooCodeInc/Roo-Code) ⭐ 22,890 | 🐛 783 | 🌐 TypeScript | 📅 2026-03-29 - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code) ⭐ 22,890 | 🐛 783 | 🌐 TypeScript | 📅 2026-03-29
+* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,165 | 🐛 48 | 🌐 Go | 📅 2025-10-03 - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex) ⭐ 15,165 | 🐛 48 | 🌐 Go | 📅 2025-10-03
+* [PR-Agent](https://github.com/Codium-ai/pr-agent) ⭐ 10,703 | 🐛 114 | 🌐 Python | 📅 2026-03-29 - AI-powered tool for automated PR analysis, feedback, suggestions and more.
+* [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,165 | 🐛 285 | 🌐 Python | 📅 2026-03-25 - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
-* [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) ⭐ 3,570 | 🐛 10 | 🌐 Python | 📅 2024-03-20 - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
+* [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) ⭐ 3,569 | 🐛 10 | 🌐 Python | 📅 2024-03-20 - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
 * [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline) ⭐ 1,537 | 🐛 42 | 🌐 TypeScript | 📅 2026-02-11
 * [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 * [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
@@ -182,18 +182,18 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Developer tools
 
-* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 99,763 | 🐛 1,299 | 🌐 C++ | 📅 2026-03-29 - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
-* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,231 | 🐛 757 | 🌐 C++ | 📅 2025-05-27 - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
-* [LLM App](https://github.com/pathwaycom/llm-app) ⭐ 59,640 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-01-07 - Open-source Python library to build real-time LLM-enabled data pipeline.
-* [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth) ⭐ 58,531 | 🐛 1,043 | 🌐 Python | 📅 2026-03-28.
-* [bitnet.cpp](https://github.com/microsoft/BitNet) ⭐ 36,805 | 🐛 290 | 🌐 Python | 📅 2026-03-10 - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet) ⭐ 36,805 | 🐛 290 | 🌐 Python | 📅 2026-03-10
+* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 99,917 | 🐛 1,306 | 🌐 C++ | 📅 2026-03-29 - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
+* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,230 | 🐛 758 | 🌐 C++ | 📅 2025-05-27 - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+* [LLM App](https://github.com/pathwaycom/llm-app) ⭐ 59,687 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-01-07 - Open-source Python library to build real-time LLM-enabled data pipeline.
+* [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth) ⭐ 58,602 | 🐛 1,044 | 🌐 Python | 📅 2026-03-30.
+* [bitnet.cpp](https://github.com/microsoft/BitNet) ⭐ 36,836 | 🐛 293 | 🌐 Python | 📅 2026-03-10 - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet) ⭐ 36,836 | 🐛 293 | 🌐 Python | 📅 2026-03-10
 * [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna) ⚠️ Archived
-* [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix) ⭐ 22,699 | 🐛 151 | 🌐 TypeScript | 📅 2026-03-29
-* [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest) ⭐ 14,236 | 🐛 19 | 🌐 Python | 📅 2026-03-27
+* [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix) ⭐ 22,709 | 🐛 154 | 🌐 TypeScript | 📅 2026-03-30
+* [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest) ⭐ 14,235 | 🐛 19 | 🌐 Python | 📅 2026-03-27
 * [Ludwig](https://github.com/ludwig-ai/ludwig) ⭐ 11,666 | 🐛 1 | 🌐 Python | 📅 2026-03-16 - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig) ⭐ 11,666 | 🐛 1 | 🌐 Python | 📅 2026-03-16
-* [agenta](https://github.com/agenta-ai/agenta) ⭐ 3,983 | 🐛 107 | 🌐 TypeScript | 📅 2026-03-28 - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
-* [OpenLIT](https://github.com/openlit/openlit) ⭐ 2,327 | 🐛 31 | 🌐 Python | 📅 2026-03-28 - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
-* [SymbolicAI](https://github.com/Xpitfire/symbolicai) ⭐ 1,696 | 🐛 0 | 🌐 Python | 📅 2026-03-28 - A neuro-symbolic framework for building applications with LLMs at the core.
+* [agenta](https://github.com/agenta-ai/agenta) ⭐ 3,986 | 🐛 108 | 🌐 TypeScript | 📅 2026-03-29 - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
+* [OpenLIT](https://github.com/openlit/openlit) ⭐ 2,330 | 🐛 31 | 🌐 Python | 📅 2026-03-28 - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
+* [SymbolicAI](https://github.com/Xpitfire/symbolicai) ⭐ 1,697 | 🐛 0 | 🌐 Python | 📅 2026-03-28 - A neuro-symbolic framework for building applications with LLMs at the core.
 * [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 * [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 * [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
@@ -213,10 +213,10 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Local LLM Deployment
 
-* [Ollama](https://github.com/ollama/ollama) ⭐ 166,362 | 🐛 2,746 | 🌐 Go | 📅 2026-03-29 - Get up and running with large language models locally.
-* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 129,103 | 🐛 269 | 🌐 Python | 📅 2026-03-29 - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
-* [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan) ⭐ 41,358 | 🐛 285 | 🌐 TypeScript | 📅 2026-03-28
-* [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm) ⭐ 11,468 | 🐛 573 | 🌐 Python | 📅 2026-03-17
+* [Ollama](https://github.com/ollama/ollama) ⭐ 166,436 | 🐛 2,752 | 🌐 Go | 📅 2026-03-30 - Get up and running with large language models locally.
+* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 129,217 | 🐛 277 | 🌐 Python | 📅 2026-03-30 - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
+* [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan) ⭐ 41,382 | 🐛 283 | 🌐 TypeScript | 📅 2026-03-30
+* [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm) ⭐ 11,475 | 🐛 574 | 🌐 Python | 📅 2026-03-17
 * [Msty](https://msty.app/) - A straightforward and powerful interface for local and online AI models.
 * [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 * [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
@@ -225,18 +225,18 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Autonomous agents
 
-* [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot) ⭐ 339,593 | 🐛 16,237 | 🌐 TypeScript | 📅 2026-03-29
-* [Auto-GPT](https://github.com/Torantulino/Auto-GPT) ⭐ 182,921 | 🐛 376 | 🌐 Python | 📅 2026-03-29 - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli) ⭐ 99,375 | 🐛 3,209 | 🌐 TypeScript | 📅 2026-03-29
-* [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 70,061 | 🐛 347 | 🌐 Python | 📅 2026-03-29 - An autonomous agent designed to navigate the complexities of software engineering. #opensource
-* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 66,379 | 🐛 101 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
-* [AutoGen](https://github.com/microsoft/autogen) ⭐ 56,350 | 🐛 716 | 🌐 Python | 📅 2026-03-26 - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
-* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) ⭐ 55,231 | 🐛 68 | 🌐 Python | 📅 2025-05-14 - Specify what you want it to build, the AI asks for clarification, and then builds it.
+* [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot) ⭐ 340,781 | 🐛 16,450 | 🌐 TypeScript | 📅 2026-03-30
+* [Auto-GPT](https://github.com/Torantulino/Auto-GPT) ⭐ 182,932 | 🐛 378 | 🌐 Python | 📅 2026-03-30 - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli) ⭐ 99,477 | 🐛 3,221 | 🌐 TypeScript | 📅 2026-03-30
+* [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 70,154 | 🐛 351 | 🌐 Python | 📅 2026-03-29 - An autonomous agent designed to navigate the complexities of software engineering. #opensource
+* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 66,417 | 🐛 101 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
+* [AutoGen](https://github.com/microsoft/autogen) ⭐ 56,409 | 🐛 720 | 🌐 Python | 📅 2026-03-29 - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) ⭐ 55,232 | 🐛 68 | 🌐 Python | 📅 2025-05-14 - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * [AgentGPT](https://github.com/reworkd/AgentGPT) ⚠️ Archived - Assemble, configure, and deploy autonomous AI Agents in your browser.
-* [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,802 | 🐛 242 | 🌐 Python | 📅 2025-11-10 - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
-* [babyagi](https://github.com/yoheinakajima/babyagi) ⭐ 22,213 | 🐛 21 | 🌐 Python | 📅 2026-01-31 - An AI-powered task management system.
-* [Davika](https://github.com/stitionai/devika) ⭐ 19,499 | 🐛 187 | 🌐 Python | 📅 2025-09-25 - An agentic AI software engineer. #opensource
-* [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) ⭐ 9,668 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-10-16 - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
+* [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,799 | 🐛 242 | 🌐 Python | 📅 2025-11-10 - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
+* [babyagi](https://github.com/yoheinakajima/babyagi) ⭐ 22,212 | 🐛 21 | 🌐 Python | 📅 2026-01-31 - An AI-powered task management system.
+* [Davika](https://github.com/stitionai/devika) ⭐ 19,498 | 🐛 188 | 🌐 Python | 📅 2025-09-25 - An agentic AI software engineer. #opensource
+* [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) ⭐ 9,667 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-10-16 - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 * [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 * [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 * [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
@@ -256,8 +256,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Models
 
-* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,947 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
-* [Flux](https://github.com/black-forest-labs/flux) ⭐ 25,361 | 🐛 215 | 🌐 Python | 📅 2025-07-31 - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
+* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,944 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+* [Flux](https://github.com/black-forest-labs/flux) ⭐ 25,364 | 🐛 215 | 🌐 Python | 📅 2025-07-31 - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
 * [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 * [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 * [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
@@ -317,7 +317,7 @@ Generative Artificial Intelligence is a technology that creates original content
 * [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
 * [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 * [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
-* [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ⭐ 4,299 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-01-16 - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+* [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ⭐ 4,300 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-01-16 - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
 ## Video
 
@@ -353,8 +353,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Text-to-speech
 
-* [Bark](https://github.com/suno-ai/bark) ⭐ 39,061 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2024-08-19 - A transformer-based text-to-audio model. #opensource
-* [TorToiSe](https://github.com/neonbjb/tortoise-tts) ⭐ 14,830 | 🐛 347 | 🌐 Jupyter Notebook | 📅 2024-11-19 - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
+* [Bark](https://github.com/suno-ai/bark) ⭐ 39,063 | 🐛 266 | 🌐 Jupyter Notebook | 📅 2024-08-19 - A transformer-based text-to-audio model. #opensource
+* [TorToiSe](https://github.com/neonbjb/tortoise-tts) ⭐ 14,827 | 🐛 348 | 🌐 Jupyter Notebook | 📅 2024-11-19 - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 * [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 * [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
 * [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
@@ -364,9 +364,9 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Speech-to-text
 
-* [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper) ⭐ 96,805 | 🐛 117 | 🌐 Python | 📅 2026-03-27
-* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 48,081 | 🐛 1,160 | 🌐 C++ | 📅 2026-03-21 - Port of OpenAI's Whisper model in C/C++. #opensource
-* [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe) ⭐ 5,639 | 🐛 295 | 🌐 TypeScript | 📅 2026-03-13
+* [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper) ⭐ 96,862 | 🐛 117 | 🌐 Python | 📅 2026-03-27
+* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 48,100 | 🐛 1,161 | 🌐 C++ | 📅 2026-03-29 - Port of OpenAI's Whisper model in C/C++. #opensource
+* [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe) ⭐ 5,645 | 🐛 295 | 🌐 TypeScript | 📅 2026-03-13
 * [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 
 ### Music
@@ -398,9 +398,9 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ## Learning resources
 
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 72,403 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-03-27 - Examples and guides for using the OpenAI API.
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 72,384 | 🐛 252 | 🌐 MDX | 📅 2026-03-11 - Guide and resources for prompt engineering.
-* [Anthropic courses](https://github.com/anthropics/courses) ⭐ 19,986 | 🐛 73 | 🌐 Jupyter Notebook | 📅 2025-11-13 - Anthropic's educational courses.
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 72,448 | 🐛 253 | 🌐 MDX | 📅 2026-03-11 - Guide and resources for prompt engineering.
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 72,423 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-03-27 - Examples and guides for using the OpenAI API.
+* [Anthropic courses](https://github.com/anthropics/courses) ⭐ 20,021 | 🐛 73 | 🌐 Jupyter Notebook | 📅 2025-11-13 - Anthropic's educational courses.
 * [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 * [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 * [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
@@ -410,10 +410,10 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ## More lists
 
-* [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,690 | 🐛 7 | 📅 2025-02-13 - A list of open LLMs available for commercial use.
-* [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) ⭐ 8,833 | 🐛 34 | 📅 2026-03-27 - A Collection of Awesome Generative AI Applications.
-* [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) ⭐ 3,403 | 🐛 129 | 📅 2025-12-18 - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://github.com/filipecalegario/).
-* [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) ⭐ 924 | 🐛 0 | 📅 2026-03-23 - List of molecular design using Generative AI and Deep Learning.
+* [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,694 | 🐛 7 | 📅 2025-02-13 - A list of open LLMs available for commercial use.
+* [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) ⭐ 8,836 | 🐛 34 | 📅 2026-03-29 - A Collection of Awesome Generative AI Applications.
+* [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) ⭐ 3,405 | 🐛 130 | 📅 2025-12-18 - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://github.com/filipecalegario/).
+* [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) ⭐ 924 | 🐛 0 | 📅 2026-03-29 - List of molecular design using Generative AI and Deep Learning.
 * [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
 * [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
 * [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
@@ -424,8 +424,8 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Lists on ChatGPT
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 154,501 | 🐛 39 | 🌐 HTML | 📅 2026-03-29 - A collection of prompt examples to be used with the ChatGPT model.
-* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,231 | 🐛 120 | 📅 2025-10-15 - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
-* [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,169 | 🐛 6 | 📅 2026-02-15 - Another awesome list for ChatGPT.
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 154,683 | 🐛 39 | 🌐 HTML | 📅 2026-03-30 - A collection of prompt examples to be used with the ChatGPT model.
+* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,230 | 🐛 120 | 📅 2025-10-15 - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
+* [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,172 | 🐛 6 | 📅 2026-02-15 - Another awesome list for ChatGPT.
 * [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) ⭐ 1,603 | 🐛 1 | 📅 2023-12-28 - A repository of useful data science prompts for ChatGPT.
 * [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
