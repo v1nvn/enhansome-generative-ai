@@ -4,7 +4,7 @@
 
 Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
 
-Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](origin/CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) ⭐ 11,917 | 🐛 214 | 📅 2026-04-28 or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) ⭐ 11,917 | 🐛 214 | 📅 2026-04-28 to start a discussion. More projects can be found in the [Discoveries List](origin/DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
+Contributions to this list are welcome. Before submitting your suggestions, please review the [Contribution Guidelines](origin/CONTRIBUTING.md) to ensure your entries meet the criteria. Add links through [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) ⭐ 11,923 | 🐛 217 | 📅 2026-04-29 or create an [issue](https://github.com/steven2358/awesome-generative-ai/issues) ⭐ 11,923 | 🐛 217 | 📅 2026-04-29 to start a discussion. More projects can be found in the [Discoveries List](origin/DISCOVERIES.md), where we showcase a wide range of up-and-coming Generative AI projects.
 
 ## Contents
 
@@ -30,12 +30,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Milestones
 
 * [OpenAI API](https://openai.com/blog/openai-api/) - Announcement of the OpenAI API for text-to-text general-purpose AI models based on GPT-3. OpenAI blog, June 11, 2020.
-* [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
+* [GitHub Copilot](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/) - Announcement of Copilot, a new AI pair programmer that helps you write better code. GitHub blog, June 29, 2021.
 * [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
-* [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
+* [Stable Diffusion Public Release](https://stability.ai/news-updates/stable-diffusion-public-release) - Announcement of the public release of Stable Diffusion, an AI-based image generation model trained on a broad internet scrape and licensed under a Creative ML OpenRAIL-M license. Stable Diffusion blog, 22 August, 2022.
 * [ChatGPT](https://openai.com/blog/chatgpt/) - Announcement of ChatGPT, a conversational model trained to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. OpenAI blog, November 30, 2022.
 * [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) - Microsoft announces a new version of its search engine Bing, powered by a next-generation OpenAI model. Microsoft blog, February 7, 2023.
-* [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
+* [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) - Llama LLM, a foundational, 65-billion-parameter large language model by Meta. Meta, February 23rd, 2023. #opensource
 * [GPT-4](https://openai.com/research/gpt-4) - Announcement of GPT-4, a large multimodal model. OpenAI blog, March 14, 2023.
 * [DALL·E 3](https://openai.com/index/dall-e-3/) - Announcement of DALL·E 3 image generator. OpenAI blog, September 20, 2023.
 * [Sora](https://openai.com/research/video-generation-models-as-world-simulators) - Presentation of Sora, a large video generation model. OpenAI, February 15, 2024.
@@ -44,11 +44,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Models
 
-* [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) ⭐ 51,535 | 🐛 126 | 🌐 Python | 📅 2024-08-30 and open weights. #opensource
-* [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen) ⭐ 21,088 | 🐛 35 | 🌐 Python | 📅 2026-03-05
+* [Grok](https://grok.x.ai/) - An LLM by xAI with [open source](https://github.com/xai-org/grok-1) ⭐ 51,530 | 🐛 125 | 🌐 Python | 📅 2024-08-30 and open weights. #opensource
+* [Qwen](https://qwenlm.github.io/) - A series of LLMs independently developed by Alibaba Cloud. [#opensource](https://github.com/QwenLM/Qwen) ⭐ 21,096 | 🐛 35 | 🌐 Python | 📅 2026-03-05
 * [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-4 and GPT-5 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
-* [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
-* [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
+* [Gopher](https://deepmind.google/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval/) - Gopher by DeepMind is a 280 billion parameter language model.
+* [OPT](https://huggingface.co/facebook/opt-350m) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. [Announcement](https://ai.meta.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/).
 * [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 * [Llama](https://www.llama.com/) - Meta's open source large language model. #opensource
 * [Claude](https://claude.ai/) - Talk to Claude, an AI assistant from Anthropic.
@@ -71,8 +71,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Custom interfaces
 
-* [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat) ⭐ 36,235 | 🐛 417 | 🌐 TypeScript | 📅 2026-04-29.
-* [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,185 | 🐛 248 | 🌐 TypeScript | 📅 2024-08-03.
+* [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat) ⭐ 36,299 | 🐛 417 | 🌐 TypeScript | 📅 2026-04-30.
+* [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,190 | 🐛 248 | 🌐 TypeScript | 📅 2024-08-03.
 
 ### Search engines
 
@@ -84,7 +84,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Local search engines
 
-* [privateGPT](https://github.com/zylon-ai/private-gpt) ⭐ 57,207 | 🐛 298 | 🌐 Python | 📅 2026-02-26 - Ask questions to your documents without an internet connection, using the power of LLMs.
+* [privateGPT](https://github.com/zylon-ai/private-gpt) ⭐ 57,206 | 🐛 298 | 🌐 Python | 📅 2026-02-26 - Ask questions to your documents without an internet connection, using the power of LLMs.
 * [quivr](https://github.com/QuivrHQ/quivr) ⭐ 39,120 | 🐛 22 | 🌐 Python | 📅 2025-07-09 - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
@@ -123,8 +123,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Productivity
 
-* [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook) ⭐ 22,827 | 🐛 136 | 🌐 TypeScript | 📅 2026-04-21
-* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 18,442 | 🐛 73 | 🌐 Rust | 📅 2026-04-29 - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
+* [Open Notebook](https://www.open-notebook.ai) - An open source implementation of NotebookLM with more flexibility and features. [#opensource](https://github.com/lfnovo/open-notebook) ⭐ 22,874 | 🐛 136 | 🌐 TypeScript | 📅 2026-04-21
+* [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 18,453 | 🐛 80 | 🌐 Rust | 📅 2026-04-30 - An open-source tool for recording screen and audio activity with AI-powered search, automations, and support for local LLMs. #opensource
 * [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 * [Mem](https://mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 * [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
@@ -144,9 +144,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Academia
 
-* [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/) ⭐ 28,137 | 🐛 116 | 🌐 Python | 📅 2025-09-30
-* [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) ⭐ 4,392 | 🐛 209 | 🌐 Python | 📅 2026-04-29 - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research) ⭐ 4,392 | 🐛 209 | 🌐 Python | 📅 2026-04-29
-* [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview) ⭐ 881 | 🐛 87 | 🌐 Python | 📅 2026-04-27
+* [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/) ⭐ 28,144 | 🐛 116 | 🌐 Python | 📅 2025-09-30
+* [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) ⭐ 4,410 | 🐛 209 | 🌐 Python | 📅 2026-04-29 - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research) ⭐ 4,410 | 🐛 209 | 🌐 Python | 📅 2026-04-29
+* [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview) ⭐ 882 | 🐛 87 | 🌐 Python | 📅 2026-04-27
 * [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 * [genei](https://www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 * [Explainpaper](https://www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
@@ -157,11 +157,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Leaderboards
 
-* [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
+* [Arena](https://arena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab.
 * [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 * [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 * [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
-* [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+* [SEAL LLM Leaderboard](https://labs.scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
 * [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
 
 ### Other text generators
@@ -173,18 +173,17 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Coding Assistants
 
-* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 67,530 | 🐛 123 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 63,344 | 🐛 320 | 🌐 Python | 📅 2026-04-27 - OpenAI's Code Interpreter in your terminal, running locally.
-* [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider) ⭐ 44,089 | 🐛 1,510 | 🌐 Python | 📅 2026-04-25
-* [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue) ⭐ 32,872 | 🐛 645 | 🌐 TypeScript | 📅 2026-04-28
-* [RooCode](https://github.com/RooCodeInc/Roo-Code) ⭐ 23,744 | 🐛 930 | 🌐 TypeScript | 📅 2026-04-28 - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code) ⭐ 23,744 | 🐛 930 | 🌐 TypeScript | 📅 2026-04-28
-* [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode) ⭐ 18,687 | 🐛 1,119 | 🌐 TypeScript | 📅 2026-04-29
-* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,309 | 🐛 56 | 🌐 Go | 📅 2025-10-03 - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex) ⭐ 15,309 | 🐛 56 | 🌐 Go | 📅 2025-10-03
-* [PR-Agent](https://github.com/Codium-ai/pr-agent) ⭐ 11,034 | 🐛 149 | 🌐 Python | 📅 2026-04-21 - AI-powered tool for automated PR analysis, feedback, suggestions and more.
-* [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,202 | 🐛 280 | 🌐 Python | 📅 2026-04-21 - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
+* [Open Interpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 63,352 | 🐛 321 | 🌐 Python | 📅 2026-04-27 - OpenAI's Code Interpreter in your terminal, running locally.
+* [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource](https://github.com/paul-gauthier/aider) ⭐ 44,143 | 🐛 1,511 | 🌐 Python | 📅 2026-04-25
+* [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource](https://github.com/continuedev/continue) ⭐ 32,895 | 🐛 659 | 🌐 TypeScript | 📅 2026-04-29
+* [RooCode](https://github.com/RooCodeInc/Roo-Code) ⭐ 23,772 | 🐛 944 | 🌐 TypeScript | 📅 2026-04-30 - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource](https://github.com/RooCodeInc/Roo-Code) ⭐ 23,772 | 🐛 944 | 🌐 TypeScript | 📅 2026-04-30
+* [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource](https://github.com/Kilo-Org/kilocode) ⭐ 18,728 | 🐛 1,131 | 🌐 TypeScript | 📅 2026-04-30
+* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,313 | 🐛 56 | 🌐 Go | 📅 2025-10-03 - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex) ⭐ 15,313 | 🐛 56 | 🌐 Go | 📅 2025-10-03
+* [PR-Agent](https://github.com/The-PR-Agent/pr-agent) ⭐ 11,049 | 🐛 151 | 🌐 Python | 📅 2026-04-21 - AI-powered tool for automated PR analysis, feedback, suggestions and more.
+* [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) ⭐ 4,200 | 🐛 281 | 🌐 Python | 📅 2026-04-21 - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) ⚠️ Archived - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 * [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) ⭐ 3,557 | 🐛 10 | 🌐 Python | 📅 2024-03-20 - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
-* [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline) ⭐ 1,552 | 🐛 42 | 🌐 TypeScript | 📅 2026-02-11
+* [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline) ⭐ 1,553 | 🐛 42 | 🌐 TypeScript | 📅 2026-02-11
 * [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 * [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 * [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
@@ -192,42 +191,40 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 * [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 * [Stenography](https://stenography.dev/) - Automatic code documentation.
 * [Mintlify](https://mintlify.com/) - AI powered documentation writer.
-* [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 * [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
-* [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-* [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
+* [Qodo](https://www.qodo.ai/) - AI code review tool with agentic workflows for IDEs, pull requests, and security.
 * [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
 * [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 * [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 
 ### Developer tools
 
-* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 107,274 | 🐛 1,550 | 🌐 C++ | 📅 2026-04-29 - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
-* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,378 | 🐛 759 | 🌐 C++ | 📅 2025-05-27 - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
-* [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth) ⭐ 63,222 | 🐛 1,182 | 🌐 Python | 📅 2026-04-29.
-* [LLM App](https://github.com/pathwaycom/llm-app) ⭐ 59,892 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-01-07 - Open-source Python library to build real-time LLM-enabled data pipeline.
-* [bitnet.cpp](https://github.com/microsoft/BitNet) ⭐ 38,644 | 🐛 312 | 🌐 Python | 📅 2026-03-10 - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet) ⭐ 38,644 | 🐛 312 | 🌐 Python | 📅 2026-03-10
-* [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse) ⭐ 26,278 | 🐛 581 | 🌐 TypeScript | 📅 2026-04-29
-* [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow) ⭐ 25,620 | 🐛 2,040 | 🌐 Python | 📅 2026-04-29
-* [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix) ⭐ 24,076 | 🐛 169 | 🌐 TypeScript | 📅 2026-04-29
+* [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 107,491 | 🐛 1,551 | 🌐 C++ | 📅 2026-04-30 - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
+* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,373 | 🐛 759 | 🌐 C++ | 📅 2025-05-27 - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+* [Unsloth](https://unsloth.ai) - A Python library for fine-tuning LLMs [#opensource](https://github.com/unslothai/unsloth) ⭐ 63,293 | 🐛 1,183 | 🌐 Python | 📅 2026-04-29.
+* [LLM App](https://github.com/pathwaycom/llm-app) ⭐ 59,879 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-01-07 - Open-source Python library to build real-time LLM-enabled data pipeline.
+* [bitnet.cpp](https://github.com/microsoft/BitNet) ⭐ 38,722 | 🐛 312 | 🌐 Python | 📅 2026-03-10 - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet) ⭐ 38,722 | 🐛 312 | 🌐 Python | 📅 2026-03-10
+* [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource](https://github.com/langfuse/langfuse) ⭐ 26,345 | 🐛 579 | 🌐 TypeScript | 📅 2026-04-30
+* [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource](https://github.com/mlflow/mlflow) ⭐ 25,641 | 🐛 2,040 | 🌐 Python | 📅 2026-04-30
+* [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats. [#opensource](https://github.com/yamadashy/repomix) ⭐ 24,109 | 🐛 165 | 🌐 TypeScript | 📅 2026-04-29
 * [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource](https://github.com/vanna-ai/vanna) ⚠️ Archived
-* [Opik](https://github.com/comet-ml/opik) ⭐ 19,110 | 🐛 158 | 🌐 Python | 📅 2026-04-29 - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource](https://github.com/comet-ml/opik) ⭐ 19,110 | 🐛 158 | 🌐 Python | 📅 2026-04-29
-* [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource](https://github.com/Canner/WrenAI) ⭐ 15,035 | 🐛 311 | 🌐 TypeScript | 📅 2026-04-27
-* [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest) ⭐ 14,436 | 🐛 19 | 🌐 Python | 📅 2026-04-24
-* [Ludwig](https://github.com/ludwig-ai/ludwig) ⭐ 11,681 | 🐛 7 | 🌐 Python | 📅 2026-04-29 - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig) ⭐ 11,681 | 🐛 7 | 🌐 Python | 📅 2026-04-29
-* [Helicone AI](https://helicone.ai/) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications. [#opensource](https://github.com/Helicone/helicone) ⭐ 5,573 | 🐛 86 | 🌐 TypeScript | 📅 2026-04-23
-* [agenta](https://github.com/agenta-ai/agenta) ⭐ 4,074 | 🐛 81 | 🌐 TypeScript | 📅 2026-04-28 - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
-* [OpenLIT](https://github.com/openlit/openlit) ⭐ 2,404 | 🐛 38 | 🌐 TypeScript | 📅 2026-04-27 - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
-* [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset) ⭐ 1,969 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21
-* [SymbolicAI](https://github.com/Xpitfire/symbolicai) ⭐ 1,712 | 🐛 0 | 🌐 Python | 📅 2026-04-27 - A neuro-symbolic framework for building applications with LLMs at the core.
-* [rehydra](https://github.com/rehydra-ai/rehydra-sdk) ⭐ 64 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-07 - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
-* [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 19,123 | 🐛 138 | 🌐 Python | 📅 2026-04-30 - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource](https://github.com/comet-ml/opik) ⭐ 19,123 | 🐛 138 | 🌐 Python | 📅 2026-04-30
+* [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource](https://github.com/Canner/WrenAI) ⭐ 15,041 | 🐛 312 | 🌐 TypeScript | 📅 2026-04-27
+* [Gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase so it can be fed into any LLM. [#opensource](https://github.com/cyclotruc/gitingest) ⭐ 14,441 | 🐛 19 | 🌐 Python | 📅 2026-04-24
+* [Ludwig](https://github.com/ludwig-ai/ludwig) ⭐ 11,681 | 🐛 4 | 🌐 Python | 📅 2026-04-29 - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig) ⭐ 11,681 | 🐛 4 | 🌐 Python | 📅 2026-04-29
+* [Helicone AI](https://helicone.ai/) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications. [#opensource](https://github.com/Helicone/helicone) ⭐ 5,581 | 🐛 86 | 🌐 TypeScript | 📅 2026-04-23
+* [agenta](https://github.com/agenta-ai/agenta) ⭐ 4,080 | 🐛 81 | 🌐 TypeScript | 📅 2026-04-29 - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
+* [OpenLIT](https://github.com/openlit/openlit) ⭐ 2,408 | 🐛 40 | 🌐 TypeScript | 📅 2026-04-30 - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
+* [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource](https://github.com/agentset-ai/agentset) ⭐ 1,970 | 🐛 12 | 🌐 TypeScript | 📅 2026-04-21
+* [SymbolicAI](https://github.com/ExtensityAI/symbolicai) ⭐ 1,713 | 🐛 0 | 🌐 Python | 📅 2026-04-27 - A neuro-symbolic framework for building applications with LLMs at the core.
+* [rehydra](https://github.com/rehydra-ai/rehydra-sdk) ⭐ 65 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-07 - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
+* [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 * [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 * [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 * [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 * [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 * [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
-* [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+* [Cursor](https://cursor.com/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
 * [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 * [Together AI](https://www.together.ai/) - Train, fine-tune-and run inference on AI models blazing fast, at low cost, and at production scale.
 * [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
@@ -241,12 +238,12 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Local LLM Deployment
 
-* [Ollama](https://github.com/ollama/ollama) ⭐ 170,253 | 🐛 3,104 | 🌐 Go | 📅 2026-04-29 - Get up and running with large language models locally.
-* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 134,698 | 🐛 302 | 🌐 Python | 📅 2026-04-24 - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
-* [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan) ⭐ 42,244 | 🐛 380 | 🌐 TypeScript | 📅 2026-04-28
-* [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm) ⭐ 11,736 | 🐛 594 | 🌐 Python | 📅 2026-04-29
-* [Harbor](https://github.com/av/harbor) ⭐ 2,884 | 🐛 55 | 🌐 TypeScript | 📅 2026-04-26 - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
-* [Msty](https://msty.app/) - A straightforward and powerful interface for local and online AI models.
+* [Ollama](https://github.com/ollama/ollama) ⭐ 170,352 | 🐛 3,110 | 🌐 Go | 📅 2026-04-30 - Get up and running with large language models locally.
+* [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 134,862 | 🐛 316 | 🌐 Python | 📅 2026-04-24 - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
+* [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource](https://github.com/janhq/jan) ⭐ 42,272 | 🐛 382 | 🌐 TypeScript | 📅 2026-04-30
+* [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource](https://github.com/simonw/llm) ⭐ 11,746 | 🐛 592 | 🌐 Python | 📅 2026-04-29
+* [Harbor](https://github.com/av/harbor) ⭐ 2,889 | 🐛 55 | 🌐 TypeScript | 📅 2026-04-26 - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
+* [Msty](https://msty.ai/) - A straightforward and powerful interface for local and online AI models.
 * [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 * [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 * [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
@@ -255,23 +252,23 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Autonomous agents
 
-* [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot) ⭐ 365,987 | 🐛 6,964 | 🌐 TypeScript | 📅 2026-04-29
-* [Auto-GPT](https://github.com/Torantulino/Auto-GPT) ⭐ 183,867 | 🐛 399 | 🌐 Python | 📅 2026-04-28 - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode) ⭐ 151,520 | 🐛 6,165 | 🌐 TypeScript | 📅 2026-04-29
-* [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent) ⭐ 123,440 | 🐛 7,002 | 🌐 Python | 📅 2026-04-29
-* [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli) ⭐ 102,686 | 🐛 2,833 | 🌐 TypeScript | 📅 2026-04-29
-* [OpenDevin](https://github.com/OpenDevin/OpenDevin) ⭐ 72,305 | 🐛 404 | 🌐 Python | 📅 2026-04-29 - An autonomous agent designed to navigate the complexities of software engineering. #opensource
-* [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 67,530 | 🐛 123 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
-* [AutoGen](https://github.com/microsoft/autogen) ⭐ 57,547 | 🐛 794 | 🌐 Python | 📅 2026-04-15 - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+* [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource](https://github.com/clawdbot/clawdbot) ⭐ 366,473 | 🐛 6,905 | 🌐 TypeScript | 📅 2026-04-30
+* [Auto-GPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 183,891 | 🐛 398 | 🌐 Python | 📅 2026-04-30 - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource](https://github.com/anomalyco/opencode) ⭐ 152,139 | 🐛 6,187 | 🌐 TypeScript | 📅 2026-04-30
+* [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource](https://github.com/NousResearch/hermes-agent) ⭐ 125,442 | 🐛 7,231 | 🌐 Python | 📅 2026-04-30
+* [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource](https://github.com/google-gemini/gemini-cli) ⭐ 102,760 | 🐛 2,832 | 🌐 TypeScript | 📅 2026-04-30
+* [OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 72,380 | 🐛 396 | 🌐 Python | 📅 2026-04-30 - An autonomous agent designed to navigate the complexities of software engineering. #opensource
+* [MetaGPT](https://github.com/FoundationAgents/MetaGPT) ⭐ 67,566 | 🐛 124 | 🌐 Python | 📅 2026-01-21 - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
+* [AutoGen](https://github.com/microsoft/autogen) ⭐ 57,587 | 🐛 795 | 🌐 Python | 📅 2026-04-15 - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) ⚠️ Archived - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * [AgentGPT](https://github.com/reworkd/AgentGPT) ⚠️ Archived - Assemble, configure, and deploy autonomous AI Agents in your browser.
-* [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,775 | 🐛 246 | 🌐 Python | 📅 2026-04-17 - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
-* [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra) ⭐ 23,404 | 🐛 397 | 🌐 TypeScript | 📅 2026-04-29
-* [babyagi](https://github.com/yoheinakajima/babyagi) ⭐ 22,245 | 🐛 24 | 🌐 Python | 📅 2026-01-31 - An AI-powered task management system.
-* [Davika](https://github.com/stitionai/devika) ⭐ 19,502 | 🐛 190 | 🌐 Python | 📅 2025-09-25 - An agentic AI software engineer. #opensource
-* [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills) ⭐ 17,486 | 🐛 49 | 🌐 Python | 📅 2026-04-22
+* [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,776 | 🐛 246 | 🌐 Python | 📅 2026-04-17 - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
+* [Mastra](https://mastra.ai) - A TypeScript framework for building AI agents, workflows, and applications. [#opensource](https://github.com/mastra-ai/mastra) ⭐ 23,433 | 🐛 399 | 🌐 TypeScript | 📅 2026-04-30
+* [babyagi](https://github.com/yoheinakajima/babyagi) ⭐ 22,249 | 🐛 24 | 🌐 Python | 📅 2026-01-31 - An AI-powered task management system.
+* [Davika](https://github.com/stitionai/devika) ⭐ 19,504 | 🐛 189 | 🌐 Python | 📅 2025-09-25 - An agentic AI software engineer. #opensource
+* [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource](https://github.com/agentskills/agentskills) ⭐ 17,572 | 🐛 50 | 🌐 Python | 📅 2026-04-22
 * [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) ⭐ 9,657 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2025-10-16 - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
-* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 7,005 | 🐛 55 | 🌐 Python | 📅 2026-04-28 - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
+* [PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 7,009 | 🐛 57 | 🌐 Python | 📅 2026-04-29 - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 * [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 * [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 * [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
@@ -283,38 +280,34 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Custom assistants
 
 * [Poe](https://poe.com/) - Poe gives access to a variety of bots.
-* [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
-* [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
+* [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
 
 ## Image
 
 ### Models
 
-* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,893 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
-* [Flux](https://github.com/black-forest-labs/flux) ⭐ 25,473 | 🐛 217 | 🌐 Python | 📅 2025-07-31 - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
+* [DragGAN](https://github.com/XingangPan/DragGAN) ⭐ 35,892 | 🐛 154 | 🌐 Python | 📅 2024-05-18 - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+* [Flux](https://github.com/black-forest-labs/flux) ⭐ 25,476 | 🐛 217 | 🌐 Python | 📅 2025-07-31 - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
 * [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 * [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 * [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
-* [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
+* [Make-A-Scene](https://ai.meta.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 
 ### Services
 
 * [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
-* [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
+* [DreamStudio](https://stability.ai/dreamstudio) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 * [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
-* [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
-* [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
+* [Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things from images in seconds.
 * [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 * [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
 * [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
 * [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 * [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-* [Pixelz AI Art Generator](https://pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
-* [modyfi](https://www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
-* [Ponzu](https://www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
+* [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
 * [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
-* [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
+* [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
 * [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
 * [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
 * [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for creating AI-generated art.
@@ -324,8 +317,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 * [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 * [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
 * [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
-* [Reve Image](https://reve.art/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
-* [Freepik AI](https://www.freepik.com/ai) - AI-powered design tools including image generation, background removal, and creative templates.
+* [Reve Image](https://reve.com/) - A model trained from the ground up to excel at prompt adherence, aesthetics, and typography.
+* [Magnific](https://www.magnific.com/) - AI-powered design tools including image generation, background removal, and creative templates.
 
 ### Graphic design
 
@@ -347,30 +340,26 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Stable Diffusion resources
 
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 110,510 | 🐛 4,005 | 🌐 Python | 📅 2026-04-29 - A node-based interface for building and running Stable Diffusion workflows. [#opensource](https://github.com/comfyanonymous/ComfyUI) ⭐ 110,510 | 🐛 4,005 | 🌐 Python | 📅 2026-04-29
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 110,695 | 🐛 4,006 | 🌐 Python | 📅 2026-04-30 - A node-based interface for building and running Stable Diffusion workflows. [#opensource](https://github.com/comfyanonymous/ComfyUI) ⭐ 110,695 | 🐛 4,006 | 🌐 Python | 📅 2026-04-30
 * [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) ⭐ 4,312 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2026-04-17 - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 * [Stable Horde](https://stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 * [DiffusionDB](https://diffusiondb.com/) - A list of all public apps, developer tools, guides and plugins for Stable Diffusion. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
 * [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
-* [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 
 ## Video
 
 * [Runway](https://runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 * [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
-* [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
-* [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 * [Colossyan](https://www.colossyan.com/) - Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages.
 * [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
 * [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 * [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 * [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 * [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
-* [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
-* [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
-* [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
+* [Luma Dream Machine](https://lumalabs.ai/app) - An AI model that makes high quality, realistic videos fast from text and images.
+* [KLING AI](https://kling.ai/) - Tools for creating imaginative images and videos.
 * [Hailuo AI](https://hailuoai.video/) - AI-powered text-to-video generator.
-* [Google Flow](https://flow.google) - An AI filmmaking tool from Google, powered by Veo.
+* [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 * [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 * [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
 
@@ -378,31 +367,28 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 * [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 * [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
-* [RenderNet](https://rendernet.ai/) - RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
+* [Affogato](https://affogato.ai/) - Create AI-generated product video ads for TikTok, Reels, and Shorts.
 
 ### Animation
 
-* [Wonder Dynamics](https://wonderdynamics.com/) - Effortlessly animate, light, and compose CG characters into live scenes.
+* [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio) - AI-powered tool for animating and compositing CG characters into live-action footage.
 
 ## Audio
 
 ### Text-to-speech
 
-* [Bark](https://github.com/suno-ai/bark) ⭐ 39,096 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2024-08-19 - A transformer-based text-to-audio model. #opensource
+* [Bark](https://github.com/suno-ai/bark) ⭐ 39,094 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2024-08-19 - A transformer-based text-to-audio model. #opensource
 * [TorToiSe](https://github.com/neonbjb/tortoise-tts) ⭐ 14,841 | 🐛 347 | 🌐 Jupyter Notebook | 📅 2024-11-19 - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
-* [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) ⭐ 3,098 | 🐛 105 | 🌐 TypeScript | 📅 2026-04-28 - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
-* [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
+* [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) ⭐ 3,102 | 🐛 105 | 🌐 TypeScript | 📅 2026-04-28 - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
+* [Eleven Labs](https://elevenlabs.io/) - AI voice generator.
 * [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text to speech.
-* [WellSaid](https://wellsaidlabs.com/) - Convert text to voice in real time.
-* [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
-* [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
-* [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
+* [WellSaid](https://www.wellsaid.io/) - Convert text to voice in real time.
 
 ### Speech-to-text
 
-* [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper) ⭐ 98,600 | 🐛 123 | 🌐 Python | 📅 2026-04-15
-* [whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 49,138 | 🐛 1,188 | 🌐 C++ | 📅 2026-04-20 - Port of OpenAI's Whisper model in C/C++. #opensource
-* [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe) ⭐ 5,915 | 🐛 332 | 🌐 TypeScript | 📅 2026-04-28
+* [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource](https://github.com/openai/whisper) ⭐ 98,660 | 🐛 122 | 🌐 Python | 📅 2026-04-15
+* [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 49,183 | 🐛 1,186 | 🌐 C++ | 📅 2026-04-20 - Port of OpenAI's Whisper model in C/C++. #opensource
+* [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe) ⭐ 5,944 | 🐛 335 | 🌐 TypeScript | 📅 2026-04-28
 * [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) ⭐ 1,290 | 🐛 12 | 🌐 Python | 📅 2026-02-14 - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2) ⭐ 1,290 | 🐛 12 | 🌐 Python | 📅 2026-02-14
 * [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 
@@ -414,18 +400,17 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 * [AudioCraft](https://audiocraft.metademolab.com/) - A single-stop code base for generative audio needs, by Meta. Includes MusicGen for music and AudioGen for sounds. #opensource
 * [Stable Audio](https://stability.ai/stable-audio) - Stable Audio is Stability AI's first product for music and sound effect generation.
 * [AIVA](https://www.aiva.ai/) - AI-based music generation assistant. Choose from 250+ styles.
-* [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
+* [Suno AI](https://suno.com/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 * [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
 
 ## Other
 
-* [Diagram](https://diagram.com/) - Magical new ways to design products.
 * [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 * [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 * [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 * [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
 * [Clickable](https://www.clickable.so/) - Generate ads in seconds with AI. Beautiful, brand-consistent, and highly converting ads for all marketing channels.
-* [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
+* [Scale Spellbook](https://scale.com/genai-platform) - Build, compare, and deploy large language model apps with Scale Spellbook.
 * [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 * [Teleprompter](https://github.com/danielgross/teleprompter) ⭐ 335 | 🐛 5 | 🌐 Python | 📅 2022-12-20 - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 * [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
@@ -435,9 +420,9 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ## Learning resources
 
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 73,970 | 🐛 259 | 🌐 MDX | 📅 2026-03-11 - Guide and resources for prompt engineering.
-* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 73,072 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2026-04-29 - Examples and guides for using the OpenAI API.
-* [Anthropic courses](https://github.com/anthropics/courses) ⭐ 20,945 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2025-11-13 - Anthropic's educational courses.
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 74,017 | 🐛 259 | 🌐 MDX | 📅 2026-03-11 - Guide and resources for prompt engineering.
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook) ⭐ 73,118 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2026-04-29 - Examples and guides for using the OpenAI API.
+* [Anthropic courses](https://github.com/anthropics/courses) ⭐ 20,958 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2025-11-13 - Anthropic's educational courses.
 * [Learn Prompting](https://learnprompting.org/) - A free, open source course on communicating with artificial intelligence.
 * [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
 * [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
@@ -452,11 +437,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## More lists
 
 * [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,742 | 🐛 7 | 📅 2025-02-13 - A list of open LLMs available for commercial use.
-* [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) ⭐ 8,904 | 🐛 48 | 📅 2026-04-28 - A Collection of Awesome Generative AI Applications.
-* [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) ⭐ 3,426 | 🐛 169 | 📅 2025-12-18 - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://github.com/filipecalegario/).
+* [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) ⭐ 8,906 | 🐛 49 | 📅 2026-04-28 - A Collection of Awesome Generative AI Applications.
+* [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-ai) ⭐ 3,428 | 🐛 171 | 📅 2025-12-18 - A curated list of generative deep learning tools, works, models, etc. for artistic uses, by [@filipecalegario](https://github.com/filipecalegario/).
 * [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) ⭐ 938 | 🐛 0 | 📅 2026-04-25 - List of molecular design using Generative AI and Deep Learning.
-* [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) ⭐ 267 | 🐛 0 | 🌐 Python | 📅 2026-04-23 - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
-* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2026-04-28 - A curated list of tools and resources for building production RAG systems.
+* [Awesome AI Market Maps](https://github.com/joylarkin/Awesome-AI-Market-Maps) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2026-04-23 - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
+* [Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2026-04-29 - A curated list of tools and resources for building production RAG systems.
 * [Awesome Music AI](https://github.com/steven2358/awesome-music-ai) ⭐ 2 | 🐛 3 | 📅 2026-02-21 - A curated list of AI tools for music composition, generation, and analysis.
 * [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
 * [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequoia Capital.
@@ -468,8 +453,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Lists on ChatGPT
 
-* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 161,070 | 🐛 43 | 🌐 HTML | 📅 2026-04-29 - A collection of prompt examples to be used with the ChatGPT model.
-* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,228 | 🐛 130 | 📅 2025-10-15 - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
-* [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,218 | 🐛 6 | 📅 2026-02-15 - Another awesome list for ChatGPT.
+* [Awesome ChatGPT Prompts](https://github.com/f/prompts.chat) ⭐ 161,181 | 🐛 45 | 🌐 HTML | 📅 2026-04-30 - A collection of prompt examples to be used with the ChatGPT model.
+* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,229 | 🐛 130 | 📅 2025-10-15 - A curated list of awesome tools, demos, docs for ChatGPT and GPT-3, by [@jordn](https://github.com/jordn).
+* [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,221 | 🐛 6 | 📅 2026-02-15 - Another awesome list for ChatGPT.
 * [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) ⭐ 1,606 | 🐛 1 | 📅 2023-12-28 - A repository of useful data science prompts for ChatGPT.
 * [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
